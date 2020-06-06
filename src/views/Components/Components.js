@@ -55,7 +55,7 @@ export default function Components(props) {
               <div className={classes.brand}>
                 <h1 className={classes.title}>Material Kit React.</h1>
                 <h3 className={classes.subtitle}>
-                  A Badass Material-UI Kit based on Material Design. V1
+                  A Badass Material-UI Kit based on Material Design. V2
                 </h3>
               </div>
             </GridItem>
